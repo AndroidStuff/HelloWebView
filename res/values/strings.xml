@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWebView</string>
+    <string name="hello_web_world">Hello Web World!</string>
+    <string name="hitURL">Go To URL</string>
+    <string name="hintURL">www.google.com</string>
+
+</resources>
